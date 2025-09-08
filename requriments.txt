@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+joblib
+numpy
+pandas
+shap   # if you’re using explainability
+nltk   # if you’re doing text preprocessing
